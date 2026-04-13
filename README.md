@@ -78,7 +78,7 @@ The robot uses two IR sensors mounted on the underside of the chassis, pointing 
 
 ```
 line-following-robot/
-├── line_follower.ino   
+├── black_line_follower.ino
 └── README.md
 ```
 

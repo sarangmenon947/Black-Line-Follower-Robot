@@ -1,4 +1,4 @@
-# Black Line Following Robot
+# Black Line Follower Robot
 
 An Arduino-based autonomous robot that follows a **black line on a white surface** using two IR sensors. The robot continuously reads sensor input and adjusts its motors in real time to stay on track.
 

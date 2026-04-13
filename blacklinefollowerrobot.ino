@@ -1,11 +1,11 @@
-# define LS 2
-# define RS 3
-# define LM1 9
-# define LM2 8
-# define RM1 5
-# define RM2 4
-# define IR_LED 7
-# define LEDPIN 13
+#define LS 2
+#define RS 3
+#define LM1 9
+#define LM2 8
+#define RM1 5
+#define RM2 4
+#define IR_LED 7
+#define LEDPIN 13
 
 void setup() {
   pinMode(LS, INPUT);
